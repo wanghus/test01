@@ -9,6 +9,7 @@ package com.msu.domain;
 public class Student {
     private Integer age;
     private String name;
+    private String email;
 
     public Integer getAge() {
         return age;
